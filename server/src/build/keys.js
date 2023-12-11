@@ -5,6 +5,7 @@ exports.default = {
         host: 'localhost',
         user: 'root',
         password: '',
-        database: 'Blink'
+        database: 'Blink',
+        ssl: true
     }
 };
